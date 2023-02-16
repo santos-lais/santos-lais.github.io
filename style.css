@@ -1,8 +1,17 @@
-* {background-color: bisque;}
-h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
-h3 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+* {background-color: rgb(65, 64, 63);color: white;}
+h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;text-align: center;}
+
+h3 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;}
+
 .elemento1 {font-size: larger;}
 .elemento2 {font-size: medium;}
 .elemento3 {font-size: medium;}
 .elemento4 {font-size: larger;}
+
 .nacionalidade {font-style: italic;}
+
+p {display: inline-block;padding: 50px;font-size: 25px;}
+
+#foto {border: 15px solid gray;}
+
+li:nth-child(odd){font-style: italic;}
